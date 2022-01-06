@@ -1,0 +1,53 @@
+.navbar {
+    height: 80px;
+    padding-top: 18px;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    line-height: 200%;
+    color: #4c4c4c;
+    /*color: #47434d;*/
+    font-size: 15px;
+}
+
+h2,
+h4 h6 {
+    color: #202e39;
+}
+
+.loginBtn {
+    height: 2.25rem;
+    width: 6em;
+    background-color: #615db8;
+    /*background-color: #2d95c4;*/
+    /*background-color: #f9690e;*/
+    color: #fff;
+    border: none;
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.loginBtn:hover {
+    color: white;
+    background-color: #2d95c4;
+}
+
+.perlex {
+    min-height: 90vh;
+}
+
+.perlexHead {
+    padding: 3rem;
+}
+
+.container {
+    font-family: 'Rubik', sans-serif;
+}
+
+#LIMSSection {
+    background-color: #f9fdfc;
+    font-weight: 400;
+}
